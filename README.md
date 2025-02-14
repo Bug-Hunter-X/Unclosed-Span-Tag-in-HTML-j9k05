@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked HTML error: an unclosed span tag.  The `bug.html` file showcases the error, while `bugSolution.html` presents the corrected version.  This simple error can cause unexpected styling issues or even validation problems, highlighting the importance of meticulous attention to detail in HTML coding.
